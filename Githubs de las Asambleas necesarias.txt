@@ -1,0 +1,9 @@
+Asambleas necesarias 
+
+
+Oracle Activator : https://github.com/xKurisu/KurisuSolutions
+
+Evade : https://github.com/Esk0r/LeagueSharp
+
+
+Y " AIM " la instalan de forma "local"
